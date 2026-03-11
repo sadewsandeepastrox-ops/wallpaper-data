@@ -1,0 +1,44 @@
+{
+  "wallpapers": [
+    {
+      "id": "dark_001",
+      "category": "Dark",
+      "preview": "https://images.unsplash.com/photo-1475070929565-c985b496cb9f?w=400",
+      "hd": "https://images.unsplash.com/photo-1475070929565-c985b496cb9f?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1475070929565-c985b496cb9f?w=1920",
+      "4k": "https://images.unsplash.com/photo-1475070929565-c985b496cb9f?w=3840"
+    },
+    {
+      "id": "dark_002",
+      "category": "Dark",
+      "preview": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=400",
+      "hd": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1920",
+      "4k": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=3840"
+    },
+    {
+      "id": "dark_003",
+      "category": "Dark",
+      "preview": "https://images.unsplash.com/photo-1494548162494-384bba4ab999?w=400",
+      "hd": "https://images.unsplash.com/photo-1494548162494-384bba4ab999?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1494548162494-384bba4ab999?w=1920",
+      "4k": "https://images.unsplash.com/photo-1494548162494-384bba4ab999?w=3840"
+    },
+    {
+      "id": "dark_004",
+      "category": "Dark",
+      "preview": "https://images.unsplash.com/photo-1531306728370-e2ebd9d7bb99?w=400",
+      "hd": "https://images.unsplash.com/photo-1531306728370-e2ebd9d7bb99?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1531306728370-e2ebd9d7bb99?w=1920",
+      "4k": "https://images.unsplash.com/photo-1531306728370-e2ebd9d7bb99?w=3840"
+    },
+    {
+      "id": "dark_005",
+      "category": "Dark",
+      "preview": "https://images.unsplash.com/photo-1522790595922-e4e9g3e46b52?w=400",
+      "hd": "https://images.unsplash.com/photo-1522790595922-e4e9g3e46b52?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1522790595922-e4e9g3e46b52?w=1920",
+      "4k": "https://images.unsplash.com/photo-1522790595922-e4e9g3e46b52?w=3840"
+    }
+  ]
+}
