@@ -1,0 +1,44 @@
+{
+  "wallpapers": [
+    {
+      "id": "space_001",
+      "category": "Space",
+      "preview": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=400",
+      "hd": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1920",
+      "4k": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=3840"
+    },
+    {
+      "id": "space_002",
+      "category": "Space",
+      "preview": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400",
+      "hd": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=1920",
+      "4k": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=3840"
+    },
+    {
+      "id": "space_003",
+      "category": "Space",
+      "preview": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=400",
+      "hd": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1920",
+      "4k": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=3840"
+    },
+    {
+      "id": "space_004",
+      "category": "Space",
+      "preview": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=400",
+      "hd": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=1920",
+      "4k": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=3840"
+    },
+    {
+      "id": "space_005",
+      "category": "Space",
+      "preview": "https://images.unsplash.com/photo-1506443432602-ac2fcd6f54e0?w=400",
+      "hd": "https://images.unsplash.com/photo-1506443432602-ac2fcd6f54e0?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1506443432602-ac2fcd6f54e0?w=1920",
+      "4k": "https://images.unsplash.com/photo-1506443432602-ac2fcd6f54e0?w=3840"
+    }
+  ]
+}
