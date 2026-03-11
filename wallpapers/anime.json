@@ -1,0 +1,44 @@
+{
+  "wallpapers": [
+    {
+      "id": "anime_001",
+      "category": "Anime",
+      "preview": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=400",
+      "hd": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=1920",
+      "4k": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=3840"
+    },
+    {
+      "id": "anime_002",
+      "category": "Anime",
+      "preview": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=400",
+      "hd": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=1920",
+      "4k": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=3840"
+    },
+    {
+      "id": "anime_003",
+      "category": "Anime",
+      "preview": "https://images.unsplash.com/photo-1560707303-4e980ce876ad?w=400",
+      "hd": "https://images.unsplash.com/photo-1560707303-4e980ce876ad?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1560707303-4e980ce876ad?w=1920",
+      "4k": "https://images.unsplash.com/photo-1560707303-4e980ce876ad?w=3840"
+    },
+    {
+      "id": "anime_004",
+      "category": "Anime",
+      "preview": "https://images.unsplash.com/photo-1614583225154-5fcdda07019e?w=400",
+      "hd": "https://images.unsplash.com/photo-1614583225154-5fcdda07019e?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1614583225154-5fcdda07019e?w=1920",
+      "4k": "https://images.unsplash.com/photo-1614583225154-5fcdda07019e?w=3840"
+    },
+    {
+      "id": "anime_005",
+      "category": "Anime",
+      "preview": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=400",
+      "hd": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=1920",
+      "4k": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=3840"
+    }
+  ]
+}
