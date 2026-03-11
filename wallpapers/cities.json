@@ -1,0 +1,44 @@
+{
+  "wallpapers": [
+    {
+      "id": "cities_001",
+      "category": "Cities",
+      "preview": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400",
+      "hd": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1920",
+      "4k": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=3840"
+    },
+    {
+      "id": "cities_002",
+      "category": "Cities",
+      "preview": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=400",
+      "hd": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1920",
+      "4k": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=3840"
+    },
+    {
+      "id": "cities_003",
+      "category": "Cities",
+      "preview": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=400",
+      "hd": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=1920",
+      "4k": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=3840"
+    },
+    {
+      "id": "cities_004",
+      "category": "Cities",
+      "preview": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400",
+      "hd": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1920",
+      "4k": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=3840"
+    },
+    {
+      "id": "cities_005",
+      "category": "Cities",
+      "preview": "https://images.unsplash.com/photo-1514565131-fce0801e6785?w=400",
+      "hd": "https://images.unsplash.com/photo-1514565131-fce0801e6785?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1514565131-fce0801e6785?w=1920",
+      "4k": "https://images.unsplash.com/photo-1514565131-fce0801e6785?w=3840"
+    }
+  ]
+}
