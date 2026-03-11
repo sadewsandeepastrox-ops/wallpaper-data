@@ -1,0 +1,44 @@
+{
+  "wallpapers": [
+    {
+      "id": "animals_001",
+      "category": "Animals",
+      "preview": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=400",
+      "hd": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=1920",
+      "4k": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=3840"
+    },
+    {
+      "id": "animals_002",
+      "category": "Animals",
+      "preview": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=400",
+      "hd": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=1920",
+      "4k": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=3840"
+    },
+    {
+      "id": "animals_003",
+      "category": "Animals",
+      "preview": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?w=400",
+      "hd": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?w=1920",
+      "4k": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?w=3840"
+    },
+    {
+      "id": "animals_004",
+      "category": "Animals",
+      "preview": "https://images.unsplash.com/photo-1456926631375-92c8ce872def?w=400",
+      "hd": "https://images.unsplash.com/photo-1456926631375-92c8ce872def?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1456926631375-92c8ce872def?w=1920",
+      "4k": "https://images.unsplash.com/photo-1456926631375-92c8ce872def?w=3840"
+    },
+    {
+      "id": "animals_005",
+      "category": "Animals",
+      "preview": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?w=400",
+      "hd": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?w=1920",
+      "4k": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?w=3840"
+    }
+  ]
+}
