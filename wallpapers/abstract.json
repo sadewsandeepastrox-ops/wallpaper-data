@@ -1,0 +1,44 @@
+{
+  "wallpapers": [
+    {
+      "id": "abstract_001",
+      "category": "Abstract",
+      "preview": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+      "hd": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920",
+      "4k": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=3840"
+    },
+    {
+      "id": "abstract_002",
+      "category": "Abstract",
+      "preview": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=400",
+      "hd": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=1920",
+      "4k": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=3840"
+    },
+    {
+      "id": "abstract_003",
+      "category": "Abstract",
+      "preview": "https://images.unsplash.com/photo-1507908708918-778587c9e563?w=400",
+      "hd": "https://images.unsplash.com/photo-1507908708918-778587c9e563?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1507908708918-778587c9e563?w=1920",
+      "4k": "https://images.unsplash.com/photo-1507908708918-778587c9e563?w=3840"
+    },
+    {
+      "id": "abstract_004",
+      "category": "Abstract",
+      "preview": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=400",
+      "hd": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=1920",
+      "4k": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=3840"
+    },
+    {
+      "id": "abstract_005",
+      "category": "Abstract",
+      "preview": "https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?w=400",
+      "hd": "https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?w=1280",
+      "fullhd": "https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?w=1920",
+      "4k": "https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?w=3840"
+    }
+  ]
+}
