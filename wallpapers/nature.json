@@ -40,5 +40,14 @@
       "fullhd": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=1920",
       "4k": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=3840"
     }
+    ,
+    {
+      "id": "nature_006",
+      "category": "Nature",
+      "preview": "https://raw.githubusercontent.com/sadewsandeepastrox-ops/wallpaper-data/main/16k.jpg",
+      "hd": "https://raw.githubusercontent.com/sadewsandeepastrox-ops/wallpaper-data/main/16k.jpg",
+      "fullhd": "https://raw.githubusercontent.com/sadewsandeepastrox-ops/wallpaper-data/main/16k.jpg",
+      "4k": "https://raw.githubusercontent.com/sadewsandeepastrox-ops/wallpaper-data/main/16k.jpg"
+    }
   ]
 }
