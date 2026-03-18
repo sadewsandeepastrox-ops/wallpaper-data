@@ -39,6 +39,41 @@
       "name": "Dark",
       "thumbnail": "https://images.unsplash.com/photo-1475070929565-c985b496cb9f?w=400",
       "count": 200
+    },
+    {
+  "name": "Black & White",
+  "thumbnail": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=400",
+  "count": 200
+    },
+    {
+  "name": "Pastel",
+  "thumbnail": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?w=400",
+  "count": 200
+    },
+    {
+  "name": "Neon",
+  "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400",
+  "count": 200
+    },
+    {
+  "name": "Minimal",
+  "thumbnail": "https://images.unsplash.com/photo-1557683316-973673baf926?w=400",
+  "count": 200
+    },
+    {
+  "name": "Aesthetic",
+  "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+  "count": 200
+    },
+    {
+  "name": "3D",
+  "thumbnail": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=400",
+  "count": 200
+    },
+    {
+  "name": "Textures",
+  "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+  "count": 200
     }
   ]
 }
