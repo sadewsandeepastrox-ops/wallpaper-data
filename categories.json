@@ -94,6 +94,31 @@
   "name": "Ocean",
   "thumbnail": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=400",
   "count": 200
+    },
+    {
+  "name": "Dragons & Fantasy",
+  "thumbnail": "https://images.unsplash.com/photo-1518791841217-8f162f1912da?w=400",
+  "count": 200
+    },
+    {
+  "name": "Forest & Jungle",
+  "thumbnail": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400",
+  "count": 200
+    },
+    {
+  "name": "Motorcycles",
+  "thumbnail": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d4a?w=400",
+  "count": 200
+    },
+    {
+  "name": "Luxury & Gold",
+  "thumbnail": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=400",
+  "count": 200
+    },
+    {
+  "name": "Sunset & Sunrise",
+  "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+  "count": 200
     }
   ]
 }
