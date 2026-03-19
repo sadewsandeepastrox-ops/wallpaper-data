@@ -74,6 +74,26 @@
   "name": "Textures",
   "thumbnail": "https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=400",
   "count": 200
+    },
+    {
+  "name": "Superheroes",
+  "thumbnail": "https://images.unsplash.com/photo-1531259683007-016a7b628fc3?w=400",
+  "count": 200
+    },
+    {
+  "name": "Gaming",
+  "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400",
+  "count": 200
+    },
+    {
+  "name": "Cyberpunk",
+  "thumbnail": "https://images.unsplash.com/photo-1563089145-55572912b400?w=400",
+  "count": 200
+    },
+    {
+  "name": "Ocean",
+  "thumbnail": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=400",
+  "count": 200
     }
   ]
 }
